@@ -141,12 +141,12 @@ h2::selection {
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/project-two.png) center center/cover;
+  background: url(../assets/project/project-two.jpg) center center/cover;
 }
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project/project-three.png) center center/cover;
+  background: url(../assets/project/project-three.jpg) center center/cover;
 }
 
 /* Project 4 */
