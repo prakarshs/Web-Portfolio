@@ -21,7 +21,7 @@ https://github.com/prakarshs/Web-Portfolio/assets/138369731/65d6bc76-2a2b-45b0-b
 
 Contact Me Here - [Prakarsh Srivastava](prakarsh2101@gmail.com)
 
-Project Link: [https://github.com/prakarshs/Web-Portfolio](https://github.com/prakarshs/Web-Portfolio)
+[Project Link](https://prakarshs.github.io/Web-Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
